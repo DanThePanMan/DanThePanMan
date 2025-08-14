@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @DanThePanMan<br>👀 I’m interested in web development and ML technologies<br>🌱 I’m currently following The Odin Project to learn full stack javascript and Fast.ai to learn ML<br>🔭 I’m currently working on Palette Pal<br>👨‍💻 All of my projects are available at my website, coming soon.<br>
+👋 Hi, I’m @DanThePanMan<br>👀 I’m interested in web dev and more<br>🌱 I’m currently following The Odin Project<br>🔭 I’m currently working on Gunplahub<br>👨‍💻 All of my projects are available at my website, coming soon.<br>
 
 
 # 💻 Tech Stack:
