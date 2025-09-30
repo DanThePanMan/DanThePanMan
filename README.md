@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @DanThePanMan<br>[Follow my journey of going beyond web development](https://github.com/DanThePanMan?tab=repositories )<br>🔭 I’m currently working on Gunplahub<br>👨‍💻 All of my projects are available at my [website](https://danthepanman.vercel.app/)
+👋 Hi, I’m @DanThePanMan<br>🚀 [Follow my journey of going beyond web development](https://github.com/DanThePanMan?tab=repositories )<br>🔭 I’m currently working on Gunplahub<br>👨‍💻 All of my projects are available at my [website](https://danthepanman.vercel.app/)
 <br>
 
 
