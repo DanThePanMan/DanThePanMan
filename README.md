@@ -10,7 +10,6 @@ Software engineer specializing in full-stack development, cloud data systems, an
 - **Data & Analytics:** Python (Pandas · NumPy · scikit-learn) · SQL · Power BI 
 - **Systems & Robotics:** ROS2 · C++ · Real-time telemetry dashboards · Simulation and control software  
 
----
 
 ## **Toolbox**
 Python · TypeScript · JavaScript · React · Next.js · Node.js · Flask · FastAPI · GraphQL · REST APIs ·  
