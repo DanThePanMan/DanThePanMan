@@ -1,7 +1,7 @@
 # Daniel Chen  
 
-<br>
 Software engineer specializing in full-stack development, cloud data systems, and intelligent automation.
+
 ---
 
 ## **Focus**
