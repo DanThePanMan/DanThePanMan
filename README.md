@@ -13,6 +13,4 @@ Software engineer specializing in full-stack development, cloud data systems, an
 
 
 ## **Toolbox**
-Python · TypeScript · JavaScript · React · Next.js · Node.js · Flask · FastAPI · GraphQL · REST APIs ·  
-SQL (PostgreSQL, SQL Server, Snowflake) · Dagster · Azure Functions · Azure Data Factory · Docker ·  
-Linux · Git · C++ · Power BI · Firebase · MongoDB · Prisma ORM · Tailwind CSS · Webpack · Jest
+Python (Pandas · NumPy · scikit-learn) · JavaScript/TypeScript · React · Next.js · Node.js · Flask · FastAPI · SQL (PostgreSQL, SQL Server, Snowflake) · Dagster · Azure Functions · Azure Data Factory · Docker · Power BI · MongoDB
