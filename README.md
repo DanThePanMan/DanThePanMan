@@ -15,5 +15,5 @@ ___
 
 ## **Toolbox**
 
-Python (Pandas · NumPy · scikit-learn · LangChain) · JavaScript/TypeScript · React · Next.js · Node.js · Flask · FastAPI · SQL (PostgreSQL · SQL Server · Snowflake) · Pinecone · OpenAI API · Dagster · Azure Functions · Azure Data Factory · Docker · Power BI · MongoDB
+Python (Pandas · NumPy · scikit-learn) · JavaScript/TypeScript · React · Next.js · Node.js · Flask · FastAPI · SQL (PostgreSQL · SQL Server · Snowflake) · Pinecone · OpenAI API · Dagster · Azure Functions · Azure Data Factory · Docker · Power BI · MongoDB
 
